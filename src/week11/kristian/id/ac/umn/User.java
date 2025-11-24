@@ -3,8 +3,6 @@ package week11.kristian.id.ac.umn;
 import java.nio.charset.StandardCharsets;
 import java.security.MessageDigest;
 import java.util.Formatter;
-import exceptions.ExcessiveFailedLoginException;
-import exceptions.InvalidPropertyException;
 
 public class User {
 
